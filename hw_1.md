@@ -44,7 +44,8 @@ cat > dz_Linux1.sh
 Файл - **[dz_Linux1.sh](https://github.com/mranolegprivate/TerminalLinux/blob/7321b1a8e7763ae2b384d1623e0b66c426b45e40/dz_Linux1.sh "dz_Linux1.sh")**  
 Комманда - `./dz_Linux1.sh`
 
-```#!/bin/bash  
+```
+#!/bin/bash  
 cd lesson1  
 mkdir dir_1 dir_2 dir_3  
 cd dir_1  
@@ -53,3 +54,4 @@ mkdir dir_1 dir_2 dir_3
 cd ..  
 ls -la  
 mv dir_1/1.txt dir_1/2.txt dir_2
+```
